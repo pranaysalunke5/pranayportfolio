@@ -144,7 +144,7 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className="min-h-[calc(100vh-90px)] w-full bg-[#101b4d] flex items-center px-4 sm:px-6 md:px-12 lg:px-20 py-16 md:py-20"
+      className="min-h-[calc(100vh-90px)] w-full bg-[#101b4d] flex items-center px-4 sm:px-6 md:px-12 lg:px-20 py-20 md:py-20"
     >
       <div className="max-w-[1400px] mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center w-full">
 
